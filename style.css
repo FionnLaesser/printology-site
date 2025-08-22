@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #23243a 0%, #23243a 60%, #181825 100%);
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#gameCanvas {
+    background: #23243a;
+    border: 3px solid #ffe066;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    box-shadow: 0 0 40px 0 #000a;
+}
